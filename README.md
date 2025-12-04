@@ -37,7 +37,7 @@ All tasks were:
 ## 🙋‍♂️ About Me
 
 I'm **Subhasish Jena**, a passionate AI/ML enthusiast focused on building reproducible, modular workflows and sharing transparent, well-documented projects.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/subhasishjena/) 💼
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jena-subhasish-290702270/) 💼
 
 ---
 
